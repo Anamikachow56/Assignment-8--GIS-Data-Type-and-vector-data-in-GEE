@@ -4,3 +4,6 @@
 #Question 2: Draw a feature collection of 5 polygons covering water bodies in your area.
 code for water body
 [code for water body](https://code.earthengine.google.com/36c558e17a7142b3d48029ebe621a245)
+#Question 3:
+Open this code in GEE and take a screenshot of the boundary of Bangladesh.
+[Boundary of Bangladesh](https://code.earthengine.google.com/cf8b23f4e5d1dac64a331b0b89f18232?fbclid=IwAR1w-F30pmcyN0uvxB1UgO6hHXfrTXSrJWbjWIBY2y0WurbA5oI_yJxm990)
