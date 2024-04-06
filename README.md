@@ -18,7 +18,7 @@ Open this code in GEE and take a screenshot of the boundary of Bangladesh.
 
 [Boundary of Bangladesh](https://code.earthengine.google.com/cf8b23f4e5d1dac64a331b0b89f18232?fbclid=IwAR1w-F30pmcyN0uvxB1UgO6hHXfrTXSrJWbjWIBY2y0WurbA5oI_yJxm990)
 
-[Screenshot]
+[Screenshot](https://github.com/Anamikachow56/Assignment-8--GIS-Data-Type-and-vector-data-in-GEE/blob/e1a4971745486e3eaeebcd3d9b50c9da7ca2c496/Bondary%20of%20Bangladesh.png)
 
 Question 4:
 Open this code in GEE and change the division name to yours. 
