@@ -3,7 +3,7 @@ Question-1: Draw a rectangle, a point, and a polygon in Google Earth Engine, tak
 
 [code for polygon](https://code.earthengine.google.com/0eaec9c7b968d426276f3f00269085bc)
 
-[Screenshot]
+[Screenshot](https://github.com/Anamikachow56/Assignment-8--GIS-Data-Type-and-vector-data-in-GEE/blob/ace19b4ecf48b93ce27f23c49dd5bfc0b6b6f634/polygonsINgee.png)
 
 Question 2: Draw a feature collection of 5 polygons covering water bodies in your area.
 
