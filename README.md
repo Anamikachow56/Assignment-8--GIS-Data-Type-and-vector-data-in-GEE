@@ -7,6 +7,10 @@ Question 2: Draw a feature collection of 5 polygons covering water bodies in you
 
 [code for water body](https://code.earthengine.google.com/36c558e17a7142b3d48029ebe621a245)
 
+[Screenshot](https://github.com/Anamikachow56/Assignment-8--GIS-Data-Type-and-vector-data-in-GEE/blob/673bf44efc0ef309acaec708d9d827a27329da1e/waterbody%20(2).png)
+
+
+
 Question 3:
 Open this code in GEE and take a screenshot of the boundary of Bangladesh.
 
